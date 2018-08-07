@@ -3,7 +3,7 @@
 openCV app to detect lines and sending data to stm32.
 
 ### used:
-- odroid
+- odroid xu4
 - stm32f103rb
 
 
